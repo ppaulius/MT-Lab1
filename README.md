@@ -10,9 +10,9 @@ Features:
 - Load stream from predefined link 
 
 Project photos:
+
 ![Window](https://www.part.lt/img/235d1fbc0be49cdf85e53504733465c4148.png)
 
-////
 
 This lab aims to build your first HTML5 live stream (HLS) player.
 
