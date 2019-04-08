@@ -1,6 +1,19 @@
 # MT-Lab1
 Multimedijos sistemos. Laboratorinis darbas Nr.1 ir Nr.2
 
+Features:
+- Play button
+- Pause button
+- Stop button
+- Forward button
+- Backward button
+- Load stream from predefined link 
+
+Project photos:
+![Window](https://www.part.lt/img/235d1fbc0be49cdf85e53504733465c4148.png)
+
+////
+
 This lab aims to build your first HTML5 live stream (HLS) player.
 
 There are many open source alternatives. You can try to use as Video.js player as a startup: https://github.com/videojs/video.js
